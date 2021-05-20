@@ -8,3 +8,9 @@
 #### NLP API
 * extract **Named Entities** from collected tweets
 * calculate **Sentiment Analysis** score from colllected tweets
+
+#### Visualization
+##### Weather Anomaly Detection
+![Weather Anomaly Detection](weather.PNG)
+##### Text Analysis
+![Text Analysis](tweet.PNG)
