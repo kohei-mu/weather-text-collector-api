@@ -1,5 +1,5 @@
 # Weather-Text-Collector-API
-### FASTAPI based general-purpose API server
+### FastAPI based general-purpose API server
 #### Weather API
 * calculate **GEOHASH** from latitude & longitude
 * calculate **HUKAI** coefficient from temperature & humidity
